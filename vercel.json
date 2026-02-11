@@ -1,7 +1,4 @@
 {
-    "buildCommand": "cd eduflow && npm install && npm run build",
-    "outputDirectory": "eduflow/dist",
-    "framework": "vite",
     "rewrites": [
         {
             "source": "/(.*)",
